@@ -2,7 +2,9 @@ MyBook
 ======
 
 @Authors: Oshane Bailey, Heather Reece, Aldin Crossdale, Brittaney Bailey
+
 @Project Description: Database Management Project 2
+
 @Project Title: MyBook
 
 
